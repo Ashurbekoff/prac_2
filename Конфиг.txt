@@ -1,0 +1,7 @@
+[core]
+	editor = code
+[user]
+	name = Ruslan
+	email = rtyy_10@mail.ru
+[alias]
+	history = log --graph
